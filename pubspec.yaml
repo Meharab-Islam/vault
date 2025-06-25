@@ -43,6 +43,8 @@ dependencies:
   flutter_secure_storage: ^9.2.2
   photo_manager: ^3.7.1
   wechat_assets_picker: ^9.5.1
+  local_auth: ^2.3.0
+  get: ^4.7.2
 
 dev_dependencies:
   flutter_test:
